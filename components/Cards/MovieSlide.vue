@@ -8,7 +8,7 @@
 
                 <div class="texts-container">
                     <p class="movie-title">{{ movieItem.titleText.text }}</p>
-                    <p class="movie-subtitle">2h49 • 2023 <span>• Action • Thriller • Crime</span></p>
+                    <p class="movie-subtitle">2h49 • {{ movieItem.releaseYear.year }} <span>• Action • Thriller • Crime</span></p>
                     <p class="movie-description">John Wick affronte ses adversaires les plus redoutables dans ce quatrième volet de la série. De New York à Osaka, en passant par Paris et Berlin, John Wick mène un combat contre la Grande Table, la terrible organisation criminelle qui a mis sa tête à prix, en affrontant ses tueurs les plus dangereux</p>
                 </div>
 

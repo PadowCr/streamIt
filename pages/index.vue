@@ -16,7 +16,7 @@ const options = {
     titleType: 'movie'
   },
   headers: {
-    'X-RapidAPI-Key': 'f5d82d44a6msh4e8209605109d99p1d9d6cjsnb42d91dcc489',
+    'X-RapidAPI-Key': '',
     'X-RapidAPI-Host': 'moviesdatabase.p.rapidapi.com'
   }
 }
