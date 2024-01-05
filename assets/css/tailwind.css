@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    @apply m-0 p-0 box-border;
+}
+
+html {
+    @apply scroll-smooth;
+}
+
+a, button, input {
+    @apply border-none outline-none bg-transparent no-underline text-inherit;
+}
+
+body {
+    @apply w-full bg-background font-rubik relative;
+}
+
+
+/*---- SCROLL BAR ----*/
+::-webkit-scrollbar {
+    @apply w-2.5;
+}
+
+::-webkit-scrollbar-track {
+    @apply bg-transparent
+}
+    
+::-webkit-scrollbar-thumb {
+    @apply bg-button rounded-lg bg-clip-content border-transparent border-solid border-2;
+}
+
+
+/*---- CLASS COMMUNE ----*/
+@layer utilities {
+
+}
