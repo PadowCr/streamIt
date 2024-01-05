@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Accueil",
+        "link": "/"
+    },
+
+    {
+        "title": "Films",
+        "link": "/movies/"
+    },
+
+    {
+        "title": "Séries",
+        "link": "/series/"
+    },
+
+    {
+        "title": "Animés",
+        "link": "/anime/"
+    },
+
+    {
+        "title": "Sports",
+        "link": "/sports/"
+    }
+]

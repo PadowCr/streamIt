@@ -50,7 +50,7 @@ export default defineNuxtConfig({
       },
 
       Fredoka: {
-        wght: [700]
+        wght: [600]
       },
     },
     display: 'swap'
